@@ -6,6 +6,7 @@ DEPLOYEMENT:
 <br>
 <br>
 Deployed websie: https://kanishkk19.github.io/TinDog/ 
+
 <hr>
 
 ![screenshot](https://user-images.githubusercontent.com/90362538/187627219-c329ef30-dc5d-480a-99fa-b25c09d10137.png)
@@ -16,10 +17,8 @@ BUILT WITH:
 * HTML
 * CSS
 * BOOTSTRAP
-<br>
 <hr>
 
 AUTHOR:
-<br>
 https://github.com/kanishkk19
 
